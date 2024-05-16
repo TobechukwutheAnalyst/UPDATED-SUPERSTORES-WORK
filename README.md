@@ -1,4 +1,4 @@
-# UPDATED-SUPERSTORES-WORK
+# UPDATED-SUPERMARKET STORE BRANCHES SALES ANALYSIS
 Analysis as was conducted on 896 distinct branches of supermarket stores specializing in the retail of food, beverages, and household products.
 
 
