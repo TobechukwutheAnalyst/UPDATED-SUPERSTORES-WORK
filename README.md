@@ -1,7 +1,12 @@
 # UPDATED-SUPERSTORES-WORK
 Analysis as was conducted on 896 distinct branches of supermarket stores specializing in the retail of food, beverages, and household products.
+
+
 CONTENT:
 A supermarket is a retail establishment where customers can browse and purchase a diverse array of food, beverages, and household items, which are typically arranged into different sections for convenience. While supermarkets offer a broader selection compared to traditional grocery stores, they are smaller in scale and offer a more limited range of products compared to hypermarkets or large-scale retail outlets. In common U.S. usage, the term "grocery store" is often interchangeable with "supermarket" and does not typically refer to other types of retail stores that sell groceries.
+
+
+
 FINDINGS : The dataset comprises 896 entries and 5 columns. Each variable has a total of 896 records. The average daily count of customers and store sales amount to 786.35 and $59,351.30 respectively. The maximum daily customer count and store sales value are 1,560 and $116,320 respectively, while the minimum daily customer count and sales amount are 10 and $14,920 respectively.
 
 The top 5 store sales are $54,590, $63,540, $63,660, $74,080, and $77,120, recorded by 3, 3, 2, 2, and 2 stores respectively. There are 616 unique items available for sale.
